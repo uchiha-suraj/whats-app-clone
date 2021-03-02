@@ -2,7 +2,7 @@
 
 See the project here ---  :point_down:  :point_down:  :point_down: 
 
-whats-app-clone-42d87.web.app/
+(https://whats-app-clone-42d87.web.app/)
 
 # Getting Started with Create React App
 

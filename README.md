@@ -1,5 +1,15 @@
 # Whats app clone
 
+To make this whats-app-clone I have used >>>
+1. react
+2. Firebase Firestore Real-time db
+3. material-ui
+4. react-router
+5. react context API
+6. redux
+7. Google authentication
+8. deploy using firebase
+
 See the project here ---  :point_down:  :point_down:  :point_down: 
 
 https://whats-app-clone-42d87.web.app/

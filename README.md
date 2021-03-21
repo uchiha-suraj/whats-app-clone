@@ -2,11 +2,11 @@
 
 To make this whats-app-clone I have used >>>
 1. react
-2. Firebase Firestore Real-time db
-3. material-ui
-4. react-router
-5. react context API
-6. redux
+2. Firebase authentication
+3. Firebase Firestore Real-time db
+4. material-ui
+5. react-router
+6. react context API
 7. Google authentication
 8. deploy using firebase
 

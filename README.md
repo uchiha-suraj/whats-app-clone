@@ -3,7 +3,7 @@
 ![whats_app](https://user-images.githubusercontent.com/46050946/124556395-db6ef300-de55-11eb-97d1-9db392add103.png)
 
 ### 1. [Key Features](#key-features) 
-### 2. [Technologies I've used](#technologies-ive-used)
+### 2. [Technologies I've used](#technologies-ive-used) 
  
 ## Key Features:
 
